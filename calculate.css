@@ -1,0 +1,32 @@
+body{
+    padding-top: 120px;
+    text-align:center;
+    background-image: url("https://img.freepik.com/premium-vector/national-mathematics-day-22-december-which-is-observed-birth-anniversary-srinivasa-ramanujan_695987-557.jpg");
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: 100%;
+}
+table{
+    padding-top:30px;
+    background-color: transparent;
+}
+input{
+    height: 45px;
+    width:400px;
+    font-size:42px;
+}
+button{
+    background-color:#08f008;
+    border-radius: 50%;
+    height:35px;
+    width:40px;
+    color:aliceblue;
+    font-size: 22px;
+}
+button:hover{
+    background-color: aqua;
+}
+button:focus{
+    border:solid #2f2fef;
+    transition:0.2;
+}
